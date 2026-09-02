@@ -2,6 +2,7 @@ User-agent: *
 
 Allow: /mi-directorio/mi-archivo.php
 
+Disallow: /admin/
 Disallow: /attendance/
 Disallow: /css/
 Disallow: /fonts/
